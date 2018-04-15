@@ -3,7 +3,7 @@ var vehicles = [];
 var count = 0;
 
 function preload(){
-    font = loadFont('../clock/AvenirNextLTPro-Demi.otf');
+    font = loadFont('AvenirNextLTPro-Demi.otf');
 }
 function setup() {
     createCanvas(1100,350);
