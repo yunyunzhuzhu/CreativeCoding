@@ -14,7 +14,7 @@ function draw() {
     // vehicles = [];
     // console.log(vehicles.length);
     textAlign(CENTER,CENTER);
-    textSize(380);
+    textSize(270);
     background('black');
     textFont(font);
 
